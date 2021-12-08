@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wifi_on"
+        android:icon="@drawable/ic_wifi_on"
+        android:title="WIfi on" />
+
+    <item
+        android:id="@+id/wifi_off"
+        android:icon="@drawable/ic_wifi_off"
+        android:title="WIfi off" />
+
+    <item
+        android:id="@+id/wifi_info"
+        android:icon="@drawable/ic_wifi_info"
+        android:title="WIfi info" />
+</menu>
